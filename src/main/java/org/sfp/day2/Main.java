@@ -1,4 +1,4 @@
-package org.sfp.week3.day2;
+package org.sfp.day2;
 
 public class Main {
 

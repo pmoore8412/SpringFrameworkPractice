@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3686e48-cad7-47dd-9c88-300e3cf65356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Student.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sfp/day1/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sfp/day1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sfp/day1/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sfp/day1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sfp/week3/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sfp/day2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Student.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Student.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

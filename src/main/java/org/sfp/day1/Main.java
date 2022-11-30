@@ -1,4 +1,4 @@
-package org.sfp.week3.day1;
+package org.sfp.day1;
 
 
 import org.springframework.context.ApplicationContext;

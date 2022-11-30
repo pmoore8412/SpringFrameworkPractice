@@ -5,8 +5,8 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
 
-    <bean id="Student" class="org.sfp.week3.day1.Student" />
-    <bean id="Address" class="org.sfp.week3.day1.Address" />
-    <bean id="Phone" class="org.sfp.week3.day1.Phone" />
+    <bean id="Student" class="org.sfp.day1.Student" />
+    <bean id="Address" class="org.sfp.day1.Address" />
+    <bean id="Phone" class="org.sfp.day1.Phone" />
 
 </beans>
