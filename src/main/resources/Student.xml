@@ -5,8 +5,23 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
 
-    <bean id="Student" class="org.sfp.day1.Student" />
-    <bean id="Address" class="org.sfp.day1.Address" />
-    <bean id="Phone" class="org.sfp.day1.Phone" />
+    <bean id="Student" class="org.sfp.day1.Student">
+        <property name="id" value="09550" />
+        <property name="name" value="Arthur Pindragon" />
+        <property name="contacts" ref="Phone" />
+        <property name="address" ref="Address" />
+    </bean>
+
+    <bean id="Address" class="org.sfp.day1.Address">
+        <property name="street" value="1713 Seven Pines Rd" />
+        <property name="city" value="Springfield" />
+        <property name="state" value="IL" />
+        <property name="zip" value="62704" />
+    </bean>
+
+    <bean id="Phone" class="org.sfp.day1.Phone">
+        <constructor-arg name="emergencyContact" value="Alex Pindragon: 756-966-5874" />
+        <constructor-arg name="studentPhoneNumber" value="Cell#: 756-778-3636" />
+    </bean>
 
 </beans>
